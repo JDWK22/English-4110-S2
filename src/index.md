@@ -1,5 +1,7 @@
 # Welcome to EyeBoard
 
+![](../img/me.jpg)
+
 ## Jake's keyboard blog/information storage
 
 Here is where I store various stories, guides, and information relating to my adventure with keyboards as a way to display my writing capabilities.
@@ -8,7 +10,7 @@ Here is where I store various stories, guides, and information relating to my ad
 
 My most recent creation:
 
-![](/img/Typing.jpg)
+![](../img/Typing.jpg)
 
 Ever since I first had access to a computer, I became infatuated with video games. Now being a relatively shy kid in the 2010's, I'm sure that notion is a surprise to absolutely nobody.
 
