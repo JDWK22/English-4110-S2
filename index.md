@@ -1,11 +1,12 @@
 # Welcome to Eyeboard
+
 ## Jake's keyboard blog/information storage
 
 Here is where I store various stories, guides, and information relating to my adventure with keyboard.
 
 My most recent creation:
 
-![](../images/Typing.jpg)
+![](/images/Typing.jpg)
 
 Ever since I first had access to a computer, I became infatuated with video games. Now being a relatively shy kid in the 2010's, I'm sure that notion is a surprise to absolutely nobody.
 
