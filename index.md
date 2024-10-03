@@ -2,7 +2,9 @@
 
 ## Jake's keyboard blog/information storage
 
-Here is where I store various stories, guides, and information relating to my adventure with keyboard.
+Here is where I store various stories, guides, and information relating to my adventure with keyboards as a way to display my writing capabilities.
+
+[Eyeboard GitHub repository](https://github.com/JDWK22/EyeBoard)
 
 My most recent creation:
 
